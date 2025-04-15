@@ -1,6 +1,6 @@
 🍽️ Foodie – Full-Stack Food Ordering Web Application (MERN)
 
-Foodie is a production-ready food ordering platform developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). It features both user-facing and admin dashboards, with a focus on seamless UX, real-time status updates, and secure authentication.
+Foodie is a food ordering platform developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). It features both user-facing and admin dashboards, with a focus on seamless UX, real-time status updates, and secure authentication.
 
 This project showcases core concepts of full-stack development, including dynamic routing, protected routes, JWT-based authentication, RESTful APIs, and responsive UI design.
 
